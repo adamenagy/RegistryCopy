@@ -4,7 +4,7 @@ using System.Linq;
 using System.Windows.Forms;
 using Microsoft.Win32;
 
-namespace WindowsFormsApplication1
+namespace RegistryCopy
 {
     static class Program
     {
